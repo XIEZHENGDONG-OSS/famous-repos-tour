@@ -1,6 +1,6 @@
-Famous Repos Tour 实验记录
-姓名：________日期：2026-05-15
-Mission 1: 第一次克隆 — Git 自身
+Famous Repos Tour 实验记录  
+姓名：________日期：2026-05-15  
+Mission 1: 第一次克隆 — Git 自身 
 总提交数：52000+
 第一次提交作者与日期：Linus Torvalds，2005-04-07
 首次提交完整信息：
